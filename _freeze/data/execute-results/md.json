@@ -1,0 +1,12 @@
+{
+  "hash": "d5e49c4e3ed374427eb5460f6c95a26d",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Data\"\nformat: hugo-md\n---\n\n# Datasæt\nHer kan du beskrive datasæt, vise grafer, eller inkludere kode.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nplt.plot([1,2,3], [3,2,5])\nplt.title(\"Eksempelplot\")\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](data_files/figure-markdown_strict/cell-2-output-1.png){width=645 height=431}\n:::\n:::\n\n\n",
+    "supporting": [
+      "data_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,8 @@
+---
+title: "Mit første indlæg"
+date: 2025-01-01
+format: hugo-md
+---
+
+# Første indlæg
+Her kommer indholdet.

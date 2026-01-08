@@ -1,0 +1,75 @@
+baseURL = "/"
+languageCode = "dk"
+title = "Lyskurven"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  showReadingTime = true
+  showToc = false
+  ShowCodeCopyButtons = true
+  math = true
+  disableThemeToggle = true
+  defaultTheme = "light"
+
+[params.profileMode]
+  enabled = true
+  title = "Lyskurven"
+  subtitle = "Se de positive tendenser i verden"
+  imageUrl = "images/logo.png"
+  imageWidth = 160
+  imageHeight = 160
+
+[[params.profileMode.buttons]]
+    name = "Posts"
+    url = "/posts"
+
+[[params.profileMode.buttons]]
+    name = "About"
+    url = "/about"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/lyskurven/lyskurven"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/company/lyskurven"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/lyskurven.dk"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "data"
+    name = "Data"
+    url = "/data/"
+    weight = 4

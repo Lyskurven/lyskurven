@@ -1,0 +1,52 @@
+/* Override PaperMod color system */
+
+:root {
+    /* Backgrounds */
+    --theme: #f3f0e8;           /* cream_white */
+    --entry: #ffffff;
+    --surface: #ffffff;
+
+    /* Text */
+    --content: #1b1f39;         /* navy_logo */
+
+    /* Primary brand colors */
+    --primary: #3aa58a;         /* dark_green */
+    --secondary: #a5d8c4;       /* light_mint_green */
+    --tertiary: #e79ed0;        /* pink_zipper */
+
+    /* Links + buttons */
+    --link: #ff914d;            /* orange_cord */
+    --link-hover: #e79ed0;      /* pink_zipper */
+
+    /* Code highlighting background */
+    --hljs-bg: #f3f0e8;
+}
+
+/* Apply colors to body and links */
+body {
+    background-color: var(--theme);
+    color: var(--content);
+}
+
+a {
+    color: var(--link);
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+/* Header override */
+header.header {
+    background-color: var(--primary);
+}
+
+/* Buttons */
+button, .btn, .btn-primary {
+    background-color: var(--link);
+    color: #ffffff;
+}
+
+button:hover, .btn:hover {
+    background-color: var(--link-hover);
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lyskurven</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Lyskurven</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>dk</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mit andet indlæg</title>
+      <link>//localhost:1313/posts/post2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/post2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#andet-indl%C3%A6g&#34;&gt;Andet indlæg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#andet&#34;&gt;Andet &amp;hellip;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#sdg&#34;&gt;sdg&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#dlskgj&#34;&gt;DLSKGj&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;andet-indlæg&#34;&gt;Andet indlæg&lt;/h1&gt;
+&lt;p&gt;Her kommer indholdet.&lt;/p&gt;
+&lt;h1 id=&#34;andet-&#34;&gt;Andet &amp;hellip;&lt;/h1&gt;
+&lt;h2 id=&#34;sdg&#34;&gt;sdg&lt;/h2&gt;
+&lt;p&gt;sdgsg&lt;/p&gt;
+&lt;h3 id=&#34;dlskgj&#34;&gt;DLSKGj&lt;/h3&gt;
+&lt;p&gt;sdgsdg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mit første indlæg</title>
+      <link>//localhost:1313/posts/post1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/post1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#f%C3%B8rste-indl%C3%A6g&#34;&gt;Første indlæg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;første-indlæg&#34;&gt;Første indlæg&lt;/h1&gt;
+&lt;p&gt;Her kommer indholdet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#om-mig&#34;&gt;Om mig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tankerne&#34;&gt;Tankerne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cv&#34;&gt;CV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;om-mig&#34;&gt;Om mig&lt;/h1&gt;
+&lt;p&gt;Her skriver du lidt om hvem du er.&lt;/p&gt;
+&lt;h1 id=&#34;tankerne&#34;&gt;Tankerne&lt;/h1&gt;
+&lt;p&gt;OCD&lt;/p&gt;
+&lt;h1 id=&#34;cv&#34;&gt;CV&lt;/h1&gt;
+&lt;p&gt;sdglksdg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>//localhost:1313/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/data/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#datas%C3%A6t&#34;&gt;Datasæt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;datasæt&#34;&gt;Datasæt&lt;/h1&gt;
+&lt;p&gt;Her kan du beskrive datasæt, vise grafer, eller inkludere kode.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; matplotlib.pyplot &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; plt
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot([&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;], [&lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;title(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Eksempelplot&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;index_files/figure-markdown_strict/cell-2-output-1.png&#34; width=&#34;645&#34; height=&#34;431&#34; /&gt;</description>
+    </item>
+  </channel>
+</rss>
