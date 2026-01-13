@@ -7,7 +7,6 @@ format: hugo-md
 -   [Om mig](#om-mig)
 -   [Tankerne](#tankerne)
 -   [CV](#cv)
--   [Datasæt](#datasæt)
 
 # Om mig
 
@@ -20,16 +19,3 @@ OCD
 # CV
 
 sdglksdg
-
-# Datasæt
-
-Her kan du beskrive datasæt, vise grafer, eller inkludere kode.
-
-``` python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-plt.plot([1,2,3], [3,2,5])
-plt.title("Eksempelplot")
-plt.show()
-```
