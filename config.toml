@@ -73,3 +73,7 @@ theme = "PaperMod"
     name = "Data"
     url = "/data/"
     weight = 4
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
