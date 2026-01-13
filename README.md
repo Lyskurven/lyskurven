@@ -1,6 +1,6 @@
-# lyskurven
+# Lyskurven
 
-Her ligger al koden til lyskurven.dk - intet er hemmeligt :)
+Her ligger al koden til Lyskurven - intet er hemmeligt :)
 
-
-dfjhs,djf
+Check siden ud her:
+https://lyskurven.github.io/lyskurven/
