@@ -50,3 +50,16 @@ button, .btn, .btn-primary {
 button:hover, .btn:hover {
     background-color: var(--secondary);
 }
+
+/* ProfileMode buttons (PaperMod) */
+.profile-mode .profile-buttons .button {
+    background-color: var(--link);
+    color: #ffffff !important;
+
+    border-color: var(--link);
+}
+
+.profile-mode .profile-buttons .button:hover {
+    background-color: var(--secondary);
+    color: var(--content);
+}

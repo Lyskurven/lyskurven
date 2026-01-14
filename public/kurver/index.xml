@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kurvers on Lyskurven</title>
+    <link>//localhost:1313/kurver/</link>
+    <description>Recent content in Kurvers on Lyskurven</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>dk</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/kurver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mit andet indlæg</title>
+      <link>//localhost:1313/kurver/post2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/kurver/post2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#andet-indl%C3%A6g&#34;&gt;Andet indlæg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#andet&#34;&gt;Andet &amp;hellip;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#sdg&#34;&gt;sdg&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#dlskgj&#34;&gt;DLSKGj&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;andet-indlæg&#34;&gt;Andet indlæg&lt;/h1&gt;
+&lt;p&gt;Her kommer indholdet.&lt;/p&gt;
+&lt;h1 id=&#34;andet-&#34;&gt;Andet &amp;hellip;&lt;/h1&gt;
+&lt;h2 id=&#34;sdg&#34;&gt;sdg&lt;/h2&gt;
+&lt;p&gt;sdgsg&lt;/p&gt;
+&lt;h3 id=&#34;dlskgj&#34;&gt;DLSKGj&lt;/h3&gt;
+&lt;p&gt;sdgsdg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mit første indlæg</title>
+      <link>//localhost:1313/kurver/post1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/kurver/post1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#f%C3%B8rste-indl%C3%A6g&#34;&gt;Første indlæg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;første-indlæg&#34;&gt;Første indlæg&lt;/h1&gt;
+&lt;p&gt;Her kommer indholdet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

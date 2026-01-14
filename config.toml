@@ -22,14 +22,6 @@ theme = "PaperMod"
   imageWidth = 160
   imageHeight = 160
 
-[[params.profileMode.buttons]]
-    name = "Posts"
-    url = "/posts"
-
-[[params.profileMode.buttons]]
-    name = "About"
-    url = "/about"
-
 [[params.socialIcons]]
   name = "github"
   url = "https://github.com/lyskurven/lyskurven"
@@ -51,28 +43,22 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
+    identifier = "Hjem"
+    name = "Hjem"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "kurver"
+    name = "Kurver"
+    url = "/kurver/"
     weight = 2
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "om"
+    name = "Om"
+    url = "/om/"
     weight = 3
-
-  [[menu.main]]
-    identifier = "data"
-    name = "Data"
-    url = "/data/"
-    weight = 4
 
 [caches]
   [caches.images]
