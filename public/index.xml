@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mit andet indlæg</title>
-      <link>//localhost:1313/posts/post2/</link>
+      <link>//localhost:1313/kurver/post2/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post2/</guid>
+      <guid>//localhost:1313/kurver/post2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#andet-indl%C3%A6g&#34;&gt;Andet indlæg&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#andet&#34;&gt;Andet &amp;hellip;&lt;/a&gt;
@@ -35,9 +35,9 @@
     </item>
     <item>
       <title>Mit første indlæg</title>
-      <link>//localhost:1313/posts/post1/</link>
+      <link>//localhost:1313/kurver/post1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post1/</guid>
+      <guid>//localhost:1313/kurver/post1/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#f%C3%B8rste-indl%C3%A6g&#34;&gt;Første indlæg&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -46,29 +46,21 @@
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>//localhost:1313/om/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>//localhost:1313/om/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#om-mig&#34;&gt;Om mig&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#tankerne&#34;&gt;Tankerne&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#cv&#34;&gt;CV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#datas%C3%A6t&#34;&gt;Datasæt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;om-mig&#34;&gt;Om mig&lt;/h1&gt;
 &lt;p&gt;Her skriver du lidt om hvem du er.&lt;/p&gt;
 &lt;h1 id=&#34;tankerne&#34;&gt;Tankerne&lt;/h1&gt;
 &lt;p&gt;OCD&lt;/p&gt;
 &lt;h1 id=&#34;cv&#34;&gt;CV&lt;/h1&gt;
-&lt;p&gt;sdglksdg&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data</title>
-      <link>//localhost:1313/data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/data/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#datas%C3%A6t&#34;&gt;Datasæt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;sdglksdg&lt;/p&gt;
 &lt;h1 id=&#34;datasæt&#34;&gt;Datasæt&lt;/h1&gt;
 &lt;p&gt;Her kan du beskrive datasæt, vise grafer, eller inkludere kode.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd
