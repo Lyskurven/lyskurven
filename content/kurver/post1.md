@@ -5,7 +5,7 @@ format: hugo-md
 ---
 
 
--   [Første indlæg](#første-indlæg)
+- [Første indlæg](#første-indlæg)
 
 # Første indlæg
 

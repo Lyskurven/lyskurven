@@ -4,10 +4,10 @@ format: hugo-md
 ---
 
 
--   [Om mig](#om-mig)
--   [Tankerne](#tankerne)
--   [CV](#cv)
--   [Datasæt](#datasæt)
+- [Om mig](#om-mig)
+- [Tankerne](#tankerne)
+- [CV](#cv)
+- [Datasæt](#datasæt)
 
 # Om mig
 

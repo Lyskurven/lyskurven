@@ -4,8 +4,8 @@ format: hugo-md
 ---
 
 
--   [Velkommen](#velkommen)
--   [Amazing](#amazing)
+- [Velkommen](#velkommen)
+- [Amazing](#amazing)
 
 # Velkommen
 

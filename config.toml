@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "dk"
+locale = "da-DK"
 title = "Lyskurven"
 theme = "PaperMod"
 
@@ -13,6 +13,9 @@ theme = "PaperMod"
   math = true
   disableThemeToggle = true
   defaultTheme = "light"
+
+[params.author]
+  name = "Lyskurven"
 
 [params.profileMode]
   enabled = true

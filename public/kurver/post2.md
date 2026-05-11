@@ -5,10 +5,10 @@ format: hugo-md
 ---
 
 
--   [Andet indlæg](#andet-indlæg)
--   [Andet ...](#andet)
-    -   [sdg](#sdg)
-        -   [DLSKGj](#dlskgj)
+- [Andet indlæg](#andet-indlæg)
+- [Andet ...](#andet)
+  - [sdg](#sdg)
+    - [DLSKGj](#dlskgj)
 
 # Andet indlæg
 
